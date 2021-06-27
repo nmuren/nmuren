@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nebil</h1>
 <h3 align="center">A Software Developer currently based in Ankara/Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nmuren" alt="nmuren" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nmuren" alt="nmuren" /></a> </p>
 
 - 🌱 I’m currently learning **React.js, Express, Javascript, etc.**
 
