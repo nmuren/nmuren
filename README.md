@@ -15,8 +15,10 @@
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
+<a href="https://www.typescriptlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="33" height="30"/> </a> 
+  <a href="https://redux-toolkit.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux toolkit" width="30" height="30"/> </a> 
 <a href="https://mobx.js.org/" target="_blank"> <img src="https://mobx.js.org/assets/mobx.png" alt="mobx" width="33" height="30"/> </a> 
 <a href="https://nodejs.org/" target="_blank"> <img src="https://nodejs.org/static/images/favicons/favicon-32x32.png" alt="nodejs" width="30" height="30"/> </a>
 <a href="https://expressjs.com/" target="_blank"> <img src="https://expressjs.com/images/favicon.png" alt="expressjs" width="30" height="28"/> </a> 
