@@ -20,7 +20,7 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="33" height="30"/> </a> 
   <a href="https://redux-toolkit.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux toolkit" width="30" height="30"/> </a> 
 <a href="https://mobx.js.org/" target="_blank"> <img src="https://mobx.js.org/assets/mobx.png" alt="mobx" width="33" height="30"/> </a> 
-<a href="https://nodejs.org/" target="_blank"> <img src="https://nodejs.org/static/images/favicons/favicon-32x32.png" alt="nodejs" width="30" height="30"/> </a>
+<a href="https://nodejs.org/" target="_blank"> <img src="https://nodejs.org/static/images/favicons/favicon.png" alt="nodejs" width="30" height="30"/> </a>
 <a href="https://expressjs.com/" target="_blank"> <img src="https://expressjs.com/images/favicon.png" alt="expressjs" width="30" height="28"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a>
