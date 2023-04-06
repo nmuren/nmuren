@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nebil-muren" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="nebil-muren" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/nebil-muren" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="nebil-muren" height="30" width="30" /></a>
 <a href="https://medium.com/@nebilmuren" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@nebilmuren" height="30" width="40" /></a>
 </p>
 
