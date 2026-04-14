@@ -32,5 +32,5 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmuren&show_icons=true&theme=radical&locale=en&layout=compact" alt="nmuren" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmuren&show_icons=true&theme=radical&locale=en&layout=compact" alt="nmuren" /></p> -->
 
